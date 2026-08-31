@@ -68,9 +68,9 @@ export const botConfig = {
 
     // Embed colors by application status.
     statusColors: {
-      pending: "#FFA500",
-      approved: "#00FF00",
-      denied: "#FF0000",
+      pending: "#BF00FF",
+      approved: "#BF00FF",
+      denied: "#BF00FF",
     },
 
     // How long users must wait before submitting another application (hours).
@@ -93,14 +93,14 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#BF00FF",
+      secondary: "#BF00FF",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
-      warning: "#FEE75C",
-      info: "#3498DB",
+      success: "#BF00FF",
+      error: "#BF00FF",
+      warning: "#BF00FF",
+      info: "#BF00FF",
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -121,10 +121,10 @@ export const botConfig = {
         ended: "#ED4245",
       },
       ticket: {
-        open: "#57F287",
-        claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#BF00FF",
+        claimed: "#BF00FF",
+        closed: "#BF00FF",
+        pending: "#BF00FF",
       },
       economy: "#F1C40F",
       birthday: "#E91E63",
