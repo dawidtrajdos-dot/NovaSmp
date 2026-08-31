@@ -103,9 +103,9 @@ export const botConfig = {
       info: "#BF00FF",
 
       // Neutral utility colors.
-      light: "#FFFFFF",
-      dark: "#202225",
-      gray: "#99AAB5",
+      light: "#BF00FF",
+      dark: "#BF00FF",
+      gray: "#BF00FF",
 
       // Discord-style palette shortcuts.
       blurple: "#5865F2",
@@ -117,8 +117,8 @@ export const botConfig = {
 
       // Feature-specific colors.
       giveaway: {
-        active: "#57F287",
-        ended: "#ED4245",
+        active: "#BF00FF",
+        ended: "#BF00FF",
       },
       ticket: {
         open: "#BF00FF",
@@ -126,9 +126,9 @@ export const botConfig = {
         closed: "#BF00FF",
         pending: "#BF00FF",
       },
-      economy: "#F1C40F",
-      birthday: "#E91E63",
-      moderation: "#9B59B6",
+      economy: "#BF00FF",
+      birthday: "#BF00FF",
+      moderation: "#BF00FF",
 
       // Ticket priority color mapping.
       priority: {
